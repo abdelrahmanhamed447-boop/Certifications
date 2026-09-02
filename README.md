@@ -22,4 +22,5 @@ Professional certifications, training, attendance, and course completion certifi
 - [Windows Server 2025 Administration](Udemy%20Certificates/Microsoft%20Windows%20Server%20Administration%20Certificate.pdf)
 - [AZ-104 - Microsoft Azure Administrator 2026](Udemy%20Certificates/Certificate%20of%20completion%20for%20AZ-104%20-%20Microsoft%20Azure%20Administrator%202026.pdf)
 - [AZ-900: Microsoft Azure Fundamentals 2026](Udemy%20Certificates/Certificate%20of%20completion%20for%20AZ-900%20-%20Microsoft%20Azure%20Fundamentals%202026.pdf)
-- [AZ-700: Azure Network Engineer Associate](./Udemy%20Certificates/AZ-700%20Azure%20Network%20Engineer%20Associate%20Full%20Course%20%2BLabs.pdf)
+- [AZ-700: Azure Network Engineer Associate]
+- (./Udemy%20Certificates/AZ-700%20Azure%20Network%20Engineer%20Associate%20Full%20Course%20%2BLabs.pdf)
