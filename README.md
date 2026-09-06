@@ -16,7 +16,7 @@ Professional certifications, training, attendance, and course completion certifi
 
 - [Microsoft Certified: Azure Administrator Associate (AZ-104)](Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Administrator%20Associate%20%28AZ-104%29.pdf)
 
-- [Microsoft Certified: Azure Network Engineer Associate (AZ-700)](Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Network%20Engineer%20Associate%20%28AZ-700%29.pdf.pdf)
+- [Microsoft Certified: Azure Network Engineer Associate (AZ-700)](Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Network%20Engineer%20Associate%20%28AZ-700%29.pdf)
 
 ---
 
