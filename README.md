@@ -1,58 +1,58 @@
-Certifications
+# Certifications
 
 Professional certifications, training, attendance, and course completion certificates.
 
-This repository contains my professional certifications and training certificates in Cisco Enterprise Networking, Microsoft Azure, Microsoft 365, Windows Server, Endpoint Administration, and Network Administration.
+This repository contains my professional certifications and training certificates in **Cisco Enterprise Networking, Microsoft Azure, Microsoft 365, Windows Server, Endpoint Administration, and Network Administration**.
 
 ---
 
-Cisco Certifications
+## Cisco Certifications
 
-- "Cisco Certified Network Professional Enterprise – Combined Certification (ENCOR + ENARSI)" (Cisco%20Certifications/Cisco%20Certified%20Network%20Professional%20Enterprise%20certificate.pdf)
+- [Cisco Certified Network Professional Enterprise – Combined Certification (ENCOR + ENARSI)](Cisco%20Certifications/Cisco%20Certified%20Network%20Professional%20Enterprise%20certificate.pdf)
 
-- "Cisco Certified Specialist - Enterprise Core" (Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Core%20certificate.pdf)
+- [Cisco Certified Specialist - Enterprise Core](Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Core%20certificate.pdf)
 
-- "Cisco Certified Specialist - Enterprise Advanced Infrastructure" (Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Advanced%20Infrastructure%20certificate.pdf)
-
----
-
-Microsoft Certifications
-
-- "Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)" (Microsoft%20Certifications/Microsoft%20365%20Certified%20-%20Endpoint%20Administrator%20Associate%20%28MD-102%29.pdf)
-
-- "Microsoft Certified: Azure Network Engineer Associate (AZ-700)" (Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Network%20Engineer%20Associate%20%28AZ-700%29.pdf)
-
-- "Microsoft Certified: Azure Administrator Associate (AZ-104)" (Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Administrator%20Associate%20%28AZ-104%29.pdf)
+- [Cisco Certified Specialist - Enterprise Advanced Infrastructure](Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Advanced%20Infrastructure%20certificate.pdf)
 
 ---
 
-Training & Attendance
+## Microsoft Certifications
 
-- "AZ-104 - Microsoft Azure Administrator Course - Certificate of Attendance" (Training%20%26%20Attendance/AZ-104%20-%20Microsoft%20Azure%20Administrator%20Course%20-%20Certificate%20of%20Attendance.pdf)
+- [Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)](Microsoft%20Certifications/Microsoft%20365%20Certified%20-%20Endpoint%20Administrator%20Associate%20%28MD-102%29.pdf)
 
-- "Microsoft Windows Server Administration Course - Certificate of Attendance" (Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance.pdf)
+- [Microsoft Certified: Azure Network Engineer Associate (AZ-700)](Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Network%20Engineer%20Associate%20%28AZ-700%29.pdf)
 
----
-
-Udemy Certificates
-
-The certificates in this section represent course completion and training, not official Microsoft certifications.
-
-- "MD-102 - Microsoft 365 Endpoint Administrator (Intune) - Udemy" (Udemy%20Certificates/MD-102%20-%20Microsoft%20365%20Endpoint%20Administrator%20%28Intune%29%20-%20Udemy.pdf)
-
-- "AZ-104 - Microsoft Azure Administrator 2026 - Udemy" (Udemy%20Certificates/AZ-104%20-%20Microsoft%20Azure%20Administrator%202026%20-%20Udemy.pdf)
-
-- "AZ-900 - Microsoft Azure Fundamentals 2026 - Udemy" (Udemy%20Certificates/AZ-900%20-%20Microsoft%20Azure%20Fundamentals%202026%20-%20Udemy.pdf)
-
-- "AZ-700 - Azure Network Engineer Associate - Full Course + Labs - Udemy" (Udemy%20Certificates/AZ-700%20-%20Azure%20Network%20Engineer%20Associate%20-%20Full%20Course%20%2B%20Labs%20-%20Udemy.pdf)
-
-- "Windows Server 2025 Administration - Udemy" (Udemy%20Certificates/Windows%20Server%202025%20Administration%20-%20Udemy.pdf)
+- [Microsoft Certified: Azure Administrator Associate (AZ-104)](Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Administrator%20Associate%20%28AZ-104%29.pdf)
 
 ---
 
-Technical Areas
+## Training & Attendance
 
-Microsoft Azure
+- [AZ-104 - Microsoft Azure Administrator Course - Certificate of Attendance](Training%20%26%20Attendance/AZ-104%20-%20Microsoft%20Azure%20Administrator%20Course%20-%20Certificate%20of%20Attendance.pdf)
+
+- [Windows Server Administration Course - Certificate of Attendance](Training%20%26%20Attendance/Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance.pdf)
+
+---
+
+## Udemy Certificates
+
+The certificates in this section represent **course completion and training**, not official Microsoft certifications.
+
+- [MD-102 - Microsoft 365 Endpoint Administrator (Intune) - Udemy](Udemy%20Certificates/MD-102%20-%20Microsoft%20365%20Endpoint%20Administrator%20%28Intune%29%20-%20Udemy.pdf)
+
+- [AZ-104 - Microsoft Azure Administrator 2026 - Udemy](Udemy%20Certificates/AZ-104%20-%20Microsoft%20Azure%20Administrator%202026%20-%20Udemy.pdf)
+
+- [AZ-900 - Microsoft Azure Fundamentals 2026 - Udemy](Udemy%20Certificates/AZ-900%20-%20Microsoft%20Azure%20Fundamentals%202026%20-%20Udemy.pdf)
+
+- [AZ-700 - Azure Network Engineer Associate - Full Course + Labs - Udemy](Udemy%20Certificates/AZ-700%20-%20Azure%20Network%20Engineer%20Associate%20-%20Full%20Course%20%2B%20Labs%20-%20Udemy.pdf)
+
+- [Windows Server 2025 Administration - Udemy](Udemy%20Certificates/Windows%20Server%202025%20Administration%20-%20Udemy.pdf)
+
+---
+
+## Technical Areas
+
+### Microsoft Azure
 
 - Azure Virtual Networks (VNet)
 - Subnets
@@ -71,7 +71,7 @@ Microsoft Azure
 - Azure Governance
 - Azure Policy
 
-Microsoft Entra ID & Identity
+### Microsoft Entra ID & Identity
 
 - Microsoft Entra ID
 - Microsoft Entra Connect Sync
@@ -82,7 +82,7 @@ Microsoft Entra ID & Identity
 - Identity Management
 - Microsoft Entra ID P2 Licensing
 
-Microsoft Intune & Endpoint Administration
+### Microsoft Intune & Endpoint Administration
 
 - Microsoft Intune
 - Endpoint Administration
@@ -96,7 +96,7 @@ Microsoft Intune & Endpoint Administration
 - Windows Autopilot
 - Endpoint Monitoring and Reporting
 
-Cisco Enterprise Networking
+### Cisco Enterprise Networking
 
 - Enterprise Networking
 - Routing & Switching
@@ -115,7 +115,7 @@ Cisco Enterprise Networking
 - Network Design
 - Network Troubleshooting
 
-Windows Server & Active Directory
+### Windows Server & Active Directory
 
 - Windows Server 2016 / 2019 / 2022 / 2025
 - Active Directory Domain Services (AD DS)
@@ -127,7 +127,7 @@ Windows Server & Active Directory
 - Access Management
 - Windows Server Administration
 
-Network Automation
+### Network Automation
 
 - Python
 - Network Automation
@@ -138,11 +138,11 @@ Network Automation
 
 ---
 
-Certification Focus
+## Certification Focus
 
 The certifications and training documented in this repository support my professional development as a:
 
-Network Engineer | Cloud Engineer | Azure Network Engineer
+**Network Engineer | Cloud Engineer | Azure Network Engineer**
 
 with a focus on:
 
@@ -161,21 +161,21 @@ with a focus on:
 
 ---
 
-Professional Certification Summary
+## Professional Certification Summary
 
-Cisco
+### Cisco
 
 - CCNP Enterprise
 - Enterprise Core
 - Enterprise Advanced Infrastructure
 
-Microsoft
+### Microsoft
 
 - Microsoft 365 Endpoint Administrator Associate (MD-102)
 - Azure Network Engineer Associate (AZ-700)
 - Azure Administrator Associate (AZ-104)
 
-Training
+### Training
 
 - Microsoft Azure Administration
 - Azure Networking
@@ -187,8 +187,9 @@ Training
 
 ---
 
-Repository Structure
+## Repository Structure
 
+```text
 Certifications/
 │
 ├── Cisco Certifications/
@@ -203,7 +204,7 @@ Certifications/
 │
 ├── Training & Attendance/
 │   ├── AZ-104 - Microsoft Azure Administrator Course - Certificate of Attendance.pdf
-│   └── Microsoft Windows Server Administration Course - Certificate of Attendance.pdf
+│   └── Windows Server Administration Course - Certificate of Attendance.pdf
 │
 ├── Udemy Certificates/
 │   ├── MD-102 - Microsoft 365 Endpoint Administrator (Intune) - Udemy.pdf
@@ -213,59 +214,3 @@ Certifications/
 │   └── Windows Server 2025 Administration - Udemy.pdf
 │
 └── README.md
-
----
-
-Note About Certification Types
-
-This repository distinguishes between official professional certifications and training/course completion certificates.
-
-Official Microsoft Certifications
-
-The following are official Microsoft certifications:
-
-- Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)
-- Microsoft Certified: Azure Network Engineer Associate (AZ-700)
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-
-These certifications are listed under:
-
-"Microsoft Certifications/"
-
-Udemy Training Certificates
-
-The Udemy certificates document completion of training courses and hands-on learning.
-
-For example:
-
-MD-102 - Microsoft 365 Endpoint Administrator (Intune) - Udemy
-
-is a Udemy course completion certificate, while:
-
-Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)
-
-is the official Microsoft certification.
-
-They are therefore intentionally listed separately in this repository.
-
----
-
-Professional Development
-
-My certification and training path is focused on building practical skills across:
-
-Enterprise Networking → Azure Networking → Cloud Administration → Identity Management → Endpoint Administration → Windows Server → Network Automation
-
-This portfolio demonstrates continuous technical development through professional certifications, structured training, and hands-on laboratory projects.
-
----
-
-Author
-
-Abdelrahman Hamed
-
-Network Engineer | CCNP Enterprise | Azure Network Engineer | Azure Administrator
-
-GitHub: "Abdelrahman Hamed" (https://github.com/abdelrahmanhamed447-boop)
-
-LinkedIn: "Abdelrahman Hamed" (https://www.linkedin.com/in/abdelrahman-hamed-b51a583a9)
