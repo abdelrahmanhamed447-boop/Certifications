@@ -12,8 +12,7 @@ This repository contains my professional certifications and training certificate
 
 - [Cisco Certified Specialist - Enterprise Core](Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Core%20certificate.pdf)
 
-- [Cisco Certified Specialist - Enterprise Advanced Infrastructure](Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Advanced%20Infrastructure%20certificate.pdf)
-
+- [Cisco Certified Specialist - Enterprise Advanced Infrastructure](Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Advanced%20Infrastructure.pdf)
 ---
 
 ## Microsoft Certifications
