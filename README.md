@@ -30,8 +30,7 @@ This repository contains my professional certifications and training certificate
 
 - [AZ-104 - Microsoft Azure Administrator Course - Certificate of Attendance](Training%20%26%20Attendance/AZ-104%20-%20Microsoft%20Azure%20Administrator%20Course%20-%20Certificate%20of%20Attendance.pdf)
 
-- [Windows Server Administration Course - Certificate of Attendance](Training%20%26%20Attendance/Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance.pdf)
-
+  - [Microsoft Windows Server Administration Course - Certificate of Attendance](Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance.pdf)
 ---
 
 ## Udemy Certificates
