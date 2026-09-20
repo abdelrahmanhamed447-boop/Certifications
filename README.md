@@ -18,7 +18,8 @@ This repository contains my professional certifications and training certificate
 
 ## Microsoft Certifications
 
-- [Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Microsoft%20Certifications/Microsoft%20Endpoint%20Administrator%20Associate%20(%20MD-102%20)%20.pdf
+- [Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)]
+- (https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Microsoft%20Certifications/Microsoft%20Endpoint%20Administrator%20Associate%20(%20MD-102%20)%20.pdf
 
 - [Microsoft Certified: Azure Network Engineer Associate (AZ-700)](Microsoft%20Certifications/Microsoft%20Certified%20-%20Azure%20Network%20Engineer%20Associate%20%28AZ-700%29.pdf)
 
