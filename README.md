@@ -13,6 +13,7 @@ This repository contains my professional certifications and training certificate
 - [Cisco Certified Specialist - Enterprise Core](Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Core%20certificate.pdf)
 
 - [Cisco Certified Specialist - Enterprise Advanced Infrastructure](Cisco%20Certifications/Cisco%20Certified%20Specialist%20-%20Enterprise%20Advanced%20Infrastructure.pdf)
+
 ---
 
 ## Microsoft Certifications
@@ -29,12 +30,15 @@ This repository contains my professional certifications and training certificate
 
 - [AZ-104 - Microsoft Azure Administrator Course - Certificate of Attendance](Training%20%26%20Attendance/AZ-104%20-%20Microsoft%20Azure%20Administrator%20Course%20-%20Certificate%20of%20Attendance.pdf)
 
-  - - [Microsoft Windows Server Administration Course - Certificate of Attendance](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance%20.pdf)
+- [Microsoft Windows Server Administration Course - Certificate of Attendance](https://github.com/abdelrahmanhamed447-boop/Certifications/blob/main/Training%20%26%20Attendance/Microsoft%20Windows%20Server%20Administration%20Course%20-%20Certificate%20of%20Attendance%20.pdf)
+
 ---
 
 ## Udemy Certificates
 
 The certificates in this section represent **course completion and training**, not official Microsoft certifications.
+
+- [Microsoft 365 Administrator (MS-102) - Udemy](Udemy%20Certificates/Microsoft%20365%20Administrator%20%28MS-102%29%20-%20Udemy.pdf)
 
 - [MD-102 - Microsoft 365 Endpoint Administrator (Intune) - Udemy](Udemy%20Certificates/MD-102%20-%20Microsoft%20365%20Endpoint%20Administrator%20%28Intune%29%20-%20Udemy.pdf)
 
@@ -94,6 +98,18 @@ The certificates in this section represent **course completion and training**, n
 - Windows Autopilot
 - Endpoint Monitoring and Reporting
 
+### Microsoft 365 Administration
+
+- Microsoft 365 Tenant Administration
+- Microsoft 365 Apps Deployment
+- Exchange Online
+- Microsoft Teams
+- SharePoint Online
+- Microsoft Entra Registered, Joined & Hybrid Joined Devices
+- Microsoft Defender for Office 365
+- Microsoft Purview Compliance & DLP
+- Attack Simulation Training
+
 ### Cisco Enterprise Networking
 
 - Enterprise Networking
@@ -148,6 +164,7 @@ with a focus on:
 - Cisco Routing & Switching
 - Microsoft Azure
 - Azure Networking
+- Microsoft 365 Administration
 - Microsoft Entra ID
 - Microsoft Intune
 - Endpoint Administration
@@ -175,6 +192,7 @@ with a focus on:
 
 ### Training
 
+- Microsoft 365 Administration (MS-102)
 - Microsoft Azure Administration
 - Azure Networking
 - Microsoft 365 Endpoint Administration
@@ -205,6 +223,7 @@ Certifications/
 │   └── Windows Server Administration Course - Certificate of Attendance.pdf
 │
 ├── Udemy Certificates/
+│   ├── Microsoft 365 Administrator (MS-102) - Udemy.pdf
 │   ├── MD-102 - Microsoft 365 Endpoint Administrator (Intune) - Udemy.pdf
 │   ├── AZ-104 - Microsoft Azure Administrator 2026 - Udemy.pdf
 │   ├── AZ-900 - Microsoft Azure Fundamentals 2026 - Udemy.pdf
