@@ -38,7 +38,7 @@ This repository contains my professional certifications and training certificate
 
 The certificates in this section represent **course completion and training**, not official Microsoft certifications.
 
-- [Microsoft 365 Administrator (MS-102) - Udemy](Udemy%20Certificates/Microsoft%20365%20Administrator%20%28MS-102%29%20-%20Udemy.pdf)
+-- [Microsoft 365 Administrator (MS-102) - Udemy](Udemy%20Certificates/Microsoft%20365%20Administrator%20%28MS-102%29.pdf)
 
 - [MD-102 - Microsoft 365 Endpoint Administrator (Intune) - Udemy](Udemy%20Certificates/MD-102%20-%20Microsoft%20365%20Endpoint%20Administrator%20%28Intune%29%20-%20Udemy.pdf)
 
